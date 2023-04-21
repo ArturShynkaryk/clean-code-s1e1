@@ -16,7 +16,8 @@
   width: 100%;
 }
 
-.logo-wrapper, .more-info {
+.logo-wrapper,
+.more-info {
   font-family: Fantasy, cursive;
 }
 
@@ -34,7 +35,8 @@
   margin: 0 auto 0;
 }
 
-.task, .task-title {
+.task, 
+.task-title {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -53,7 +55,8 @@ li {
   list-style: none;
 }
 
-input,button {
+input,
+button {
   outline: none;
 }
 
@@ -126,7 +129,8 @@ input,button {
   margin: 0 10px;
 }
 
-.title, .task-title {
+.title,
+.task-title {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
@@ -160,11 +164,13 @@ input,button {
   display: none;
 }
 
-.edit-mode, .task {
+.edit-mode,
+.task {
   display: inline-block;
   width: 224px;
 }
 
-.edit-mode, .task-title {
+.edit-mode,
+.task-title {
   display: none;
 }
