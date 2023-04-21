@@ -9,7 +9,7 @@
   width: 500px;
   margin: 0 auto;
   display: block;
-  text-align: right;
+  text-align: right
 }
 
 .logo-wrapper-img {
@@ -23,7 +23,7 @@
 @media (max-width:768px) {
 
   .logo-wrapper {
-    text-align: center;
+    text-align: center
   }
 
 }
@@ -115,7 +115,7 @@ input,button {
 
 .tasks-list-item {
   overflow: hidden;
-  padding:20px 0;
+  padding: 20px 0;
   border-bottom: 1px solid #eee;
   display: flex;
   justify-content: space-between;
@@ -123,7 +123,7 @@ input,button {
 }
 
 .is-done-checkbox {
-  margin:0 10px;
+  margin: 0 10px;
 }
 
 .title, .task-title {
