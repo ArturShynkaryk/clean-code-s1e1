@@ -9,7 +9,7 @@
   width: 500px;
   margin: 0 auto;
   display: block;
-  text-align: right
+  text-align: right;
 }
 
 .logo-wrapper-img {
@@ -23,7 +23,7 @@
 @media (max-width:768px) {
 
   .logo-wrapper {
-    text-align: center
+    text-align: center;
   }
 
 }
