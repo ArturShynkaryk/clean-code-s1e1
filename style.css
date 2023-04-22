@@ -128,7 +128,7 @@ button {
   margin: 0 10px;
 }
 
-.task, 
+.task,
 .task-item__title {
   padding-left: 10px;
   box-sizing: border-box;
@@ -163,13 +163,13 @@ button {
   display: none;
 }
 
-.edit-mode,
+.edit-mode
 .task {
   display: inline-block;
   width: 224px;
 }
 
-.edit-mode,
+.edit-mode
 .task-item__title {
   display:none;
 }
