@@ -17,12 +17,12 @@
 }
 
 .logo__more-inf {
-  font-family: Fantasy, cursive;
+  font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
-  .logo {
+  .logo { 
     text-align: center;
   }
 
@@ -70,7 +70,7 @@ button {
 }
 
 .btn:hover {
-  color: #3a3a3a;
+  color: #3a3A3a;
 }
 
 /* Heading */
@@ -94,8 +94,8 @@ button {
   line-height: 18px;
   height: 21px;
   padding: 0 9px;
-  border: 1px solid #ddd;
-  background: #fff;
+  border: 1px solid #dDd;
+  background: #FFF;
   border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
@@ -137,7 +137,7 @@ button {
 }
 
 .add-elem__task-input {
-  width: 226px;
+  width: 226px
 }
 
 .task-item__delete-icon {
@@ -163,13 +163,11 @@ button {
   display: none;
 }
 
-.edit-mode,
-.task {
+.edit-mode .task {
   display: inline-block;
   width: 224px;
 }
 
-.edit-mode,
-.task-title {
-  display: none;
+.edit-mode .task-item__title {
+  display:none;
 }
